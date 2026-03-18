@@ -14,7 +14,7 @@ El propósito de este repositorio es realizar pruebas simples de integración co
 python -m prueba .venv   
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 ./prueba/Scripts/activate  
-git clone https://github.com/guillermohenrion/ITBA.git
+git clone https://github.com/guillermohenrion/BigData2026.git
 git status
 git add .
 git status
